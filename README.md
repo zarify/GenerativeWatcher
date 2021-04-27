@@ -18,7 +18,7 @@ python /path/to/watch_diff.py
 - An automatic add/commit is triggered when a source and an output file have been modified or created
 - Exit with Ctrl-C and an add/commit will be triggered to end the session
 ## Dependencies
-(Watchdog)[https://pythonhosted.org/watchdog/index.html]
+Watchdog - https://pythonhosted.org/watchdog/index.html
 
 ## Notes
 - Some preliminary testing has been done with macOS 11 (Big Sur) using Python 3.8.6
